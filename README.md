@@ -1,17 +1,23 @@
-<!-- ================================================= -->
-<!-- AHMET ERDI | CYBERSECURITY RESEARCH PORTFOLIO -->
-<!-- GitHub: erdibilisim -->
-<!-- ================================================= -->
+<!-- ===================================================== -->
+<!-- AHMET ERDI | CYBERSECURITY RESEARCH PORTFOLIO         -->
+<!-- GitHub: erdibilisim                                  -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:164E63&height=190&section=header&text=AHMET%20ERDI&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20RESEARCHER&descAlignY=60&descSize=18"/>
+<img src="./assets/banner.png" width="100%" alt="Ahmet Erdi - Cybersecurity Researcher"/>
 
-### `SECURITY RESEARCHER` // `PENETRATION TESTER` // `TECHNICAL ANALYST`
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-erdibilisim-0D1117?style=flat-square&logo=github)](https://github.com/erdibilisim)
-[![Research](https://img.shields.io/badge/Focus-Security%20Research-0891B2?style=flat-square)](https://github.com/erdibilisim)
-[![Profile](https://komarev.com/ghpvc/?username=erdibilisim&style=flat-square&color=0891B2&label=PROFILE+VIEWS)](https://github.com/erdibilisim)
+# AHMET ERDİ
+
+### CYBERSECURITY RESEARCHER | SECURITY SPECIALIST
+
+**Research · Analyze · Experiment · Secure**
+
+[![GitHub](https://img.shields.io/badge/GitHub-erdibilisim-181717?style=for-the-badge&logo=github)](https://github.com/erdibilisim)
+[![Research](https://img.shields.io/badge/Focus-Security%20Research-0891B2?style=for-the-badge)](https://github.com/erdibilisim)
+[![Profile Views](https://komarev.com/ghpvc/?username=erdibilisim&style=for-the-badge&color=0891B2)](https://github.com/erdibilisim)
 
 **RESEARCH WITH CURIOSITY. TEST WITH DISCIPLINE.**
 
@@ -36,7 +42,7 @@ Merhaba, ben Ahmet Erdi.
 
 Siber güvenlik alanında araştırmalar, uygulamalı laboratuvar çalışmaları, penetrasyon testleri ve teknik analizler gerçekleştiriyorum.
 
-Çalışmalarımda sistemlerin güvenlik mekanizmalarını anlamaya, potansiyel zafiyetleri araştırmaya ve elde edilen teknik bulguları dokümante etmeye odaklanıyorum.
+Çalışmalarımda sistemlerin güvenlik mekanizmalarını anlamaya, potansiyel güvenlik açıklarını araştırmaya ve elde edilen teknik bulguları dokümante etmeye odaklanıyorum.
 
 Erdi Bilişim Teknolojileri bünyesinde yürüttüğüm çalışmaların yanı sıra Hacker Akademisi ve HackerLab markalarıyla siber güvenlik eğitimi ve uygulamalı laboratuvar projeleri geliştiriyorum.
 
@@ -44,9 +50,9 @@ Erdi Bilişim Teknolojileri bünyesinde yürüttüğüm çalışmaların yanı s
 
 Hello, I am Ahmet Erdi.
 
-I am a cybersecurity specialist interested in security research, hands-on laboratory experiments, penetration testing, and technical analysis.
+I am a cybersecurity specialist focused on security research, hands-on laboratory experiments, penetration testing, and technical analysis.
 
-My work focuses on understanding system security mechanisms, investigating vulnerabilities, building controlled lab environments, and documenting technical findings.
+My work focuses on understanding security mechanisms, investigating vulnerabilities, building controlled lab environments, and documenting technical findings.
 
 I also develop cybersecurity education and practical laboratory initiatives through Hacker Akademisi and HackerLab.
 
@@ -56,15 +62,15 @@ I also develop cybersecurity education and practical laboratory initiatives thro
 
 | Domain | Focus |
 |:--|:--|
-| `WEB_SECURITY` | Web application and API security |
-| `PENTESTING` | Penetration testing methodologies |
-| `NETWORK_SECURITY` | Network analysis and infrastructure security |
-| `EMBEDDED_SECURITY` | Embedded systems and UART research |
-| `HARDWARE_SECURITY` | Hardware-level security investigations |
-| `VULNERABILITY_RESEARCH` | Vulnerability analysis and PoC |
-| `ACTIVE_DIRECTORY` | Windows domain security |
-| `LINUX_SECURITY` | Linux systems and hardening |
-| `AUTOMATION` | Security scripting and automation |
+| `WEB_SECURITY` | Web Application & API Security |
+| `PENTESTING` | Penetration Testing Methodologies |
+| `NETWORK_SECURITY` | Network Analysis & Infrastructure Security |
+| `EMBEDDED_SECURITY` | Embedded Systems & UART Research |
+| `HARDWARE_SECURITY` | Hardware-Level Security Research |
+| `VULNERABILITY_RESEARCH` | Vulnerability Analysis & PoC |
+| `ACTIVE_DIRECTORY` | Windows Domain Security |
+| `LINUX_SECURITY` | Linux Systems & Hardening |
+| `AUTOMATION` | Security Scripting & Automation |
 
 ---
 
@@ -74,19 +80,23 @@ I also develop cybersecurity education and practical laboratory initiatives thro
 
 **OPERATING SYSTEMS**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows&theme=dark" />
+
+<br/>
 
 **PROGRAMMING & SCRIPTING**
 
-<img src="https://skillicons.dev/icons?i=python,bash,js,nodejs,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,bash,js,nodejs,mongodb&theme=dark" />
+
+<br/>
 
 **DEVELOPMENT & INFRASTRUCTURE**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
 
 </div>
 
-**SECURITY TOOLKIT**
+### Security Toolkit
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-2C5E8A?style=flat-square)
@@ -101,23 +111,117 @@ I also develop cybersecurity education and practical laboratory initiatives thro
 My technical research and laboratory activities include:
 
 - **Web Application Security:** OWASP-based testing and vulnerability analysis.
-- **API Security:** Endpoint discovery, authorization testing, and API vulnerability research.
-- **Embedded Systems:** UART communication, hardware interfaces, and embedded device security.
-- **Network Security:** Network reconnaissance, traffic analysis, and infrastructure testing.
+- **API Security:** Endpoint discovery, authentication and authorization testing.
+- **Embedded Systems:** UART communication and embedded device security.
+- **Network Security:** Network reconnaissance and traffic analysis.
 - **Active Directory:** Domain security assessment and attack-path analysis.
-- **Security Engineering:** Custom scripts, automation, and controlled proof-of-concept development.
+- **Security Engineering:** Custom scripts, automation and proof-of-concept development.
+
+Tüm deneyler yetkili ve kontrollü laboratuvar ortamlarında gerçekleştirilir.
 
 All experiments are conducted in authorized and controlled environments.
 
 ---
 
-## `05 // FEATURED INITIATIVES`
+## `05 // FEATURED RESEARCH PROJECTS`
+
+<div align="center">
+
+### SECURITY RESEARCH & DEVELOPMENT
+
+*Selected research areas, experiments and technical projects.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Embedded Systems Security
+
+**UART & Hardware Research**
+
+- Router UART interface analysis
+- Serial communication research
+- Embedded Linux investigation
+- Hardware-level access experiments
+
+`HARDWARE` `UART` `LINUX`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web Application Security
+
+**Web Pentest Kılavuzu**
+
+- OWASP Juice Shop laboratory
+- Web vulnerability analysis
+- Burp Suite experiments
+- Reconnaissance and application mapping
+
+`OWASP` `BURP SUITE` `WEB`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 API Security Research
+
+**API Pentest Laboratory**
+
+- API endpoint discovery
+- Authentication testing
+- Authorization analysis
+- BOLA vulnerability scenarios
+
+`API` `HTTP` `SECURITY TESTING`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Active Directory Security
+
+**Enterprise Security Laboratory**
+
+- Active Directory architecture
+- Domain reconnaissance
+- Attack path analysis
+- Unified Kill Chain scenarios
+
+`WINDOWS` `ACTIVE DIRECTORY` `PENTEST`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06 // RESEARCH PHILOSOPHY`
+
+<div align="center">
+
+**OBSERVE → ANALYZE → EXPERIMENT → DOCUMENT**
+
+Every experiment should produce knowledge.
+
+Every finding should be documented.
+
+Every research project should contribute to better security.
+
+</div>
+
+---
+
+## `07 // MY INITIATIVES`
 
 <div align="center">
 
 ### ERDİ BİLİŞİM TEKNOLOJİLERİ
 
-`TECHNOLOGY` // `CYBERSECURITY` // `RESEARCH`
+**TECHNOLOGY · CYBERSECURITY · RESEARCH**
 
 Technology and cybersecurity initiatives focused on practical solutions and technical development.
 
@@ -125,34 +229,33 @@ Technology and cybersecurity initiatives focused on practical solutions and tech
 
 ### HACKER AKADEMİSİ
 
-`LEARN` // `PRACTICE` // `MASTER`
+**LEARN · PRACTICE · MASTER**
 
 Siber güvenlik eğitimleri, yapılandırılmış müfredatlar, teknik eğitim dokümanları ve öğrenme programları.
+
+Cybersecurity education, structured learning paths, training programs, and educational resources.
 
 ---
 
 ### HACKERLAB
 
-`BUILD` // `TEST` // `EXPERIMENT`
+**BUILD · TEST · EXPERIMENT**
 
 Sanal makineler, uygulamalı siber güvenlik laboratuvarları, saldırı-savunma senaryoları ve kontrollü test ortamları.
 
+Virtual laboratories, practical security scenarios, and controlled cybersecurity environments.
+
 </div>
 
-<div align="center">
-  <img
-    src="./assets/banner.png"
-    width="100%"
-    alt="Ahmet Erdi - Cybersecurity Researcher"
-  />
-</div>
 ---
 
-## `06 // PUBLICATIONS & KNOWLEDGE`
+## `08 // PUBLICATIONS & DOCUMENTATION`
 
 Technical knowledge should be researched, tested, documented, and shared.
 
-Bu bölümde aşağıdaki çalışmalarımı yayımlamayı hedefliyorum:
+Teknik bilginin araştırılması, test edilmesi, dokümante edilmesi ve paylaşılması gerektiğine inanıyorum.
+
+My work includes:
 
 - Technical Research Papers
 - Cybersecurity Assessment Reports
@@ -164,23 +267,23 @@ Bu bölümde aşağıdaki çalışmalarımı yayımlamayı hedefliyorum:
 
 ---
 
-## `07 // GITHUB ANALYTICS`
+## `09 // GITHUB ANALYTICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=erdibilisim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=erdibilisim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdibilisim&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdibilisim&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=erdibilisim&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=erdibilisim&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## `08 // CONNECT`
+## `10 // CONNECT`
 
 <div align="center">
 
@@ -190,12 +293,14 @@ Bu bölümde aşağıdaki çalışmalarımı yayımlamayı hedefliyorum:
 
 `CYBERSECURITY RESEARCHER`
 
+<br/>
+
+**"Understand the system. Challenge its security. Document the truth."**
+
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0F172A,100:020617&height=110&section=footer"/>
-
-**"Understand the system. Challenge its security. Document the truth."**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0F172A,100:020617&height=110&section=footer" />
 
 </div>
