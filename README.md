@@ -29,7 +29,6 @@ Bu profilde; siber güvenlik alanındaki bilgi ve deneyimlerimi Türkçe teknik 
 
 ---
 
-```html
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="38%" align="center" valign="middle" style="padding:0;">
@@ -64,7 +63,6 @@ Bu profilde; siber güvenlik alanındaki bilgi ve deneyimlerimi Türkçe teknik 
     </td>
   </tr>
 </table>
-```
 
 ---
 
