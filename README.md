@@ -29,19 +29,19 @@ Bu profilde; siber güvenlik alanındaki bilgi ve deneyimlerimi Türkçe teknik 
 
 ---
 
-<hr>
-
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
+```html
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="38%" align="center" valign="middle">
-	  <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
-		<img
-		  src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/uart-proje-banner.png"
-		  alt="UART Gömülü Sistem Güvenliği"
-		  width="100%">
-	  </a>
-	</td>
-    <td width="62%" valign="middle">
+    <td width="38%" align="center" valign="middle" style="padding:0;">
+      <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
+        <img
+          src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/uart-proje-banner.png"
+          alt="UART Gömülü Sistem Güvenliği"
+          width="100%"
+          style="display:block;">
+      </a>
+    </td>
+    <td width="62%" valign="middle" style="padding:12px;">
       <h3>🔬 UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi</h3>
       <p>
         <strong>TP-Link WR840N v6.20</strong><br>
@@ -64,8 +64,7 @@ Bu profilde; siber güvenlik alanındaki bilgi ve deneyimlerimi Türkçe teknik 
     </td>
   </tr>
 </table>
-
-<hr>
+```
 
 ---
 
