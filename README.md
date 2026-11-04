@@ -39,31 +39,33 @@ Bu profilde; siber güvenlik alanındaki bilgi ve deneyimlerimi Türkçe teknik 
       </a>
     </td>
 
-    <td width="60%" valign="middle" style="padding:16px;">
-      <h3>🔬 UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi</h3>
+    <td width="60%" valign="middle" style="padding:20px 18px;">
+      <div align="left">
+        <h3>🔬 UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi</h3>
 
-      <p>
-        <strong>TP-Link WR840N v6.20</strong><br>
-        Donanım Seviyesinde Güvenlik Araştırması
-      </p>
+        <p>
+          <strong>TP-Link WR840N v6.20</strong><br>
+          Donanım Seviyesinde Güvenlik Araştırması
+        </p>
 
-      <p>
-        UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.
-      </p>
+        <p>
+          UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.
+        </p>
 
-      <p>
-        <img src="https://img.shields.io/badge/Gomulu_Sistemler-Arastirma-00c9df?style=flat-square" alt="Gömülü Sistemler">
-        <img src="https://img.shields.io/badge/UART-Inceleme-168cff?style=flat-square" alt="UART">
-        <img src="https://img.shields.io/badge/Donanim_Guvenligi-Analiz-9254de?style=flat-square" alt="Donanım Güvenliği">
-      </p>
+        <p>
+          <img src="https://img.shields.io/badge/Gomulu_Sistemler-Arastirma-00c9df?style=flat-square" alt="Gömülü Sistemler">
+          <img src="https://img.shields.io/badge/UART-Inceleme-168cff?style=flat-square" alt="UART">
+          <img src="https://img.shields.io/badge/Donanim_Guvenligi-Analiz-9254de?style=flat-square" alt="Donanım Güvenliği">
+        </p>
 
-      <p>🟡 <strong>ÜZERİNDE ÇALIŞIYORUZ</strong></p>
+        <p>🟡 <strong>ÜZERİNDE ÇALIŞIYORUZ</strong></p>
 
-      <p>
-        <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
-          <strong>📂 PROJEYİ İNCELE →</strong>
-        </a>
-      </p>
+        <p>
+          <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
+            <strong>📂 PROJEYİ İNCELE →</strong>
+          </a>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
