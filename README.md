@@ -27,39 +27,19 @@ Bu profilde; siber güvenlik alanındaki bilgi ve deneyimlerimi Türkçe teknik 
 
 ## 🧪 Öne Çıkan Araştırmalar ve Projeler
 
----
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="38%" align="center" valign="middle" style="padding:0;">
+    <td width="40%" valign="middle" style="padding:0; line-height:0;">
       <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
         <img
           src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/uart-proje-banner.png"
           alt="UART Gömülü Sistem Güvenliği"
           width="100%"
-          style="display:block;">
+          style="width:100%; max-width:100%; height:auto; display:block; border:0;">
       </a>
     </td>
-    <td width="62%" valign="middle" style="padding:12px;">
-      <h3>🔬 UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi</h3>
-      <p>
-        <strong>TP-Link WR840N v6.20</strong><br>
-        Donanım Seviyesinde Güvenlik Araştırması
-      </p>
-      <p>
-        UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Gomulu_Sistemler-Arastirma-00c9df?style=flat-square" alt="Gömülü Sistemler">
-        <img src="https://img.shields.io/badge/UART-Inceleme-168cff?style=flat-square" alt="UART">
-        <img src="https://img.shields.io/badge/Donanim_Guvenligi-Analiz-9254de?style=flat-square" alt="Donanım Güvenliği">
-      </p>
-      <p>🟡 <strong>ÜZERİNDE ÇALIŞIYORUZ</strong></p>
-      <p>
-        <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
-          <strong>📂 PROJEYİ İNCELE →</strong>
-        </a>
-      </p>
+    <td width="60%" valign="middle" style="padding:12px;">
+      <!-- Mevcut sağ hücre içeriğini buraya aynen bırak -->
     </td>
   </tr>
 </table>
