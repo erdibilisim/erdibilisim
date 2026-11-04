@@ -29,35 +29,47 @@ Bu profilde; siber güvenlik alanındaki bilgi ve deneyimlerimi Türkçe teknik 
 
 ## 🔬 UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi
 
-<p align="center">
-  <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
-    <img src="./assets/uart-proje-banner.png" alt="UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi" width="100%">
-  </a>
-</p>
 
-<p align="center">
-  <strong>TP-Link WR840N v6.20</strong> · Donanım Seviyesinde Güvenlik Araştırması
-</p>
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
+        <img
+          src="./assets/uart-proje-banner.png"
+          alt="UART Gömülü Sistem Güvenliği"
+          width="220"
+        >
+      </a>
+    </td>
+    <td width="70%" valign="middle">
+      <h3>🔬 UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi</h3>
 
-<p align="center">
-  UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.
-</p>
+      <p>
+        <strong>TP-Link WR840N v6.20</strong><br>
+        Donanım Seviyesinde Güvenlik Araştırması
+      </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Gömülü_Sistemler-Araştırma-00c9df?style=for-the-badge" alt="Gömülü Sistemler">
-  <img src="https://img.shields.io/badge/UART-İnceleme-168cff?style=for-the-badge" alt="UART">
-  <img src="https://img.shields.io/badge/Donanım_Güvenliği-Analiz-9254de?style=for-the-badge" alt="Donanım Güvenliği">
-</p>
+      <p>
+        UART protokolü üzerinden gömülü sistemlerin donanım
+        seviyesindeki güvenliğini inceleyen 12 bölümlük
+        teknik araştırma serisi.
+      </p>
 
-<p align="center">
-  <strong>🟡 ÜZERİNDE ÇALIŞIYORUZ</strong>
-</p>
+      <p>
+        <img src="https://img.shields.io/badge/UART-İnceleme-168cff?style=flat-square" alt="UART">
+        <img src="https://img.shields.io/badge/Gömülü_Sistemler-Araştırma-00c9df?style=flat-square" alt="Gömülü Sistemler">
+        <img src="https://img.shields.io/badge/Donanım_Güvenliği-Analiz-9254de?style=flat-square" alt="Donanım Güvenliği">
+      </p>
 
-<p align="center">
-  <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
-    <strong>📂 GitHub Deposunu İncele →</strong>
-  </a>
-</p>
+      <p>🟡 <strong>Üzerinde Çalışıyoruz</strong></p>
+
+      <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
+        📂 GitHub Deposunu İncele →
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
