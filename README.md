@@ -27,64 +27,37 @@ Bu profilde; siber güvenlik alanındaki bilgi ve deneyimlerimi Türkçe teknik 
 
 ## 🧪 Öne Çıkan Araştırmalar ve Projeler
 
-### 1. UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi
+## 🔬 UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi
 
-**Araştırma cihazı:** TP-Link WR840N v6.20
+<p align="center">
+  <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
+    <img src="./assets/uart-proje-banner.png" alt="UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi" width="100%">
+  </a>
+</p>
 
-Bu çalışma, “Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü ile Gömülü Sistemlerin İhlali” başlıklı araştırmanın teknik konularını 12 bölümlük bir yazı dizisi olarak ele almaktadır.
+<p align="center">
+  <strong>TP-Link WR840N v6.20</strong> · Donanım Seviyesinde Güvenlik Araştırması
+</p>
 
-Araştırmada gömülü sistem mimarisi, UART arayüzünün incelenmesi, seri haberleşme, cihazın açılış süreci ve donanım seviyesindeki güvenlik konuları işlenmektedir.
+<p align="center">
+  UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.
+</p>
 
-**Araştırma başlıkları:**
-- Gömülü sistemler ve donanım mimarisi
-- UART protokolü ve seri haberleşme
-- UART arayüzünün tespiti ve incelenmesi
-- Açılış (Boot) sürecinin analizi
-- Donanım seviyesinde güvenlik
-- Güvenlik önlemleri ve değerlendirme
+<p align="center">
+  <img src="https://img.shields.io/badge/Gömülü_Sistemler-Araştırma-00c9df?style=for-the-badge" alt="Gömülü Sistemler">
+  <img src="https://img.shields.io/badge/UART-İnceleme-168cff?style=for-the-badge" alt="UART">
+  <img src="https://img.shields.io/badge/Donanım_Güvenliği-Analiz-9254de?style=for-the-badge" alt="Donanım Güvenliği">
+</p>
 
-`Gömülü Sistemler` `UART` `Donanım Güvenliği` `TP-Link WR840N v6.20`
+<p align="center">
+  <strong>🟡 ÜZERİNDE ÇALIŞIYORUZ</strong>
+</p>
 
-<sub>12 bölümlük teknik araştırma serisi · Depo geliştirme aşamasında</sub>
-
-### 2. Web Pentest Kılavuzu
-
-Web uygulama güvenliği alanında teorik bilgiyi uygulamalı laboratuvar çalışmalarıyla birleştirmeyi amaçlayan eğitim projesi.
-
-**Planlanan içerikler:**
-- Web uygulaması güvenliğine giriş
-- Keşif ve uygulama haritalama
-- Burp Suite ile trafik analizi
-- Kimlik doğrulama ve yetkilendirme testleri
-- Yaygın web güvenlik zafiyetleri
-- Uygulamalı laboratuvarlar ve değerlendirme
-
-`Web Güvenliği` `OWASP` `Burp Suite` `Uygulamalı Eğitim`
-
-<sub>Eğitim içeriği geliştirme aşamasında</sub>
-
-### 3. API Güvenliği Araştırmaları
-
-API mimarilerinin güvenlik açısından incelenmesi, uç noktaların keşfedilmesi ve erişim kontrolü mekanizmalarının test edilmesine yönelik uygulamalı çalışmalar.
-
-**Araştırma başlıkları:**
-- API keşfi ve uç nokta analizi
-- Kimlik doğrulama ve yetkilendirme
-- BOLA / IDOR zafiyetleri
-- API güvenlik testleri
-- Güvenlik kontrollerinin değerlendirilmesi
-
-`API Güvenliği` `BOLA` `IDOR` `Sızma Testi`
-
-<sub>Laboratuvar ve içerik geliştirme aşamasında</sub>
-
-### 4. Active Directory Güvenlik Laboratuvarı
-
-Active Directory ortamlarında güvenlik kontrollerini, saldırı yollarını ve savunma mekanizmalarını incelemeye yönelik uygulamalı laboratuvar çalışması.
-
-`Active Directory` `Red Team` `Blue Team` `Saldırı Simülasyonu`
-
-<sub>Senaryo geliştirme aşamasında</sub>
+<p align="center">
+  <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
+    <strong>📂 GitHub Deposunu İncele →</strong>
+  </a>
+</p>
 
 ---
 
