@@ -67,21 +67,28 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 
 ### DONANIM SEVİYESİNDE YETKİSİZ ERİŞİM: UART PROTOKOLÜ İLE GÖMÜLÜ SİSTEMLERİN İHLALİ
 
-TP-Link WR840N v6.20 kablosuz yönlendirici üzerinde UART arayüzü aracılığıyla gömülü sistem güvenliğini inceliyorum. Çalışma; donanım arayüzünün belirlenmesi, seri bağlantının kurulması, önyükleme çıktılarının incelenmesi ve cihazın yazılım ortamının analiz edilmesi başlıklarını kapsıyor.
-
-<div align="center">
-  <img src="./assets/router-board.png" alt="UART güvenlik araştırmasında kullanılan yönlendirici ve devre kartı" width="85%" />
-  <p><em>UART arayüzü ve gömülü sistem incelemesi — proje görselleri eklenecek.</em></p>
-</div>
-
-**Araştırma kapsamı**
-- UART pinlerinin (VCC, GND, RX, TX) belirlenmesi
-- Seri haberleşme parametrelerinin incelenmesi
-- Bootloader ve sistem açılış çıktılarının analizi
-- Linux tabanlı gömülü sistem ortamının incelenmesi
-- Donanım seviyesindeki erişim risklerinin ve karşı önlemlerin değerlendirilmesi
-
-**Teknik ortam:** TP-Link WR840N v6.20 · MT7628 · MIPS 24Kc · Linux 2.6.36 · BusyBox 1.19.2 · 115200 8N1
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="40%" valign="middle" style="padding:0; line-height:0;">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/uart-proje-banner.png" alt="UART Gömülü Sistem Güvenliği" width="100%" style="width:100%; max-width:100%; height:auto; display:block; border:0;">
+      </a>
+    </td>
+    <td width="60%" valign="middle" style="padding:12px;">
+      <h3>Gömülü Sistemlerin Güvenlik Analizi</h3>
+      <p><strong>TP-Link WR840N v6.20</strong><br>Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali</p>
+      <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
+	  <p><strong>ÜZERİNDE ÇALIŞILIYOR!</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-RESEARCH-c5ff4a?style=flat-square&labelColor=060606" alt="Embedded Systems Research">
+        <img src="https://img.shields.io/badge/UART-ANALYSIS-c5ff4a?style=flat-square&labelColor=060606" alt="UART Analysis">
+        <img src="https://img.shields.io/badge/HARDWARE-SECURITY-c5ff4a?style=flat-square&labelColor=060606" alt="Hardware Security">
+      </p>
+      <p><a href="#"><strong>📂 ARAŞTIRMAYI İNCELE →</strong></a></p>
+	  </br>
+    </td>
+  </tr>
+</table>
 
 ## Technical Toolkit
 
