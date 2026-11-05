@@ -108,9 +108,7 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
   </tr>
 </table>
 
-
-
-## Marka ve Girişimlerimiz
+---
 
 <h2 id="hacker-akademisi">Hacker Akademisi</h2>
 
@@ -123,6 +121,8 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 
 [Hacker Akademisi deposunu ziyaret et](#)
 
+---
+
 <h2 id="hackerlab">HackerLab</h2>
 
 **HackerLab**, siber güvenlik eğitimleri için kontrollü sanal laboratuvarlar, hedef sistemler ve uygulamalı test senaryoları geliştirmeye odaklanan çalışma alanımdır.
@@ -133,6 +133,7 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 
 [HackerLab deposunu ziyaret et](#)
 
+---
 ## Contact
 
 Araştırmalar, teknik iş birlikleri ve eğitim içerikleri hakkında iletişim kurmak için GitHub profilimi ziyaret edebilirsiniz.
