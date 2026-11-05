@@ -16,9 +16,9 @@
   </p>
 
   <p>
-    <a href="https://github.com/erdibilisim#featured-hardware-security-research"><img src="https://img.shields.io/badge/ARASTIRMACI-SIBER GUVENLIK-c5ff4a?style=for-the-badge&logo=hackthebox&logoColor=c5ff4a&labelColor=060606" 	alt="Cybersecurity Research" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/PROJECTS-HACKERLAB-c5ff4a?style=for-the-badge&logo=proxmox&logoColor=c5ff4a&labelColor=060606" alt="HackerLab" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/EDUCATION-HACKER%20AKADEMISI-c5ff4a?style=for-the-badge&logo=readthedocs&logoColor=c5ff4a&labelColor=060606" alt="Hacker Akademisi" /></a>
+    <a href="https://github.com/erdibilisim#featured-hardware-security-research"><img src="https://img.shields.io/badge/ARAŞTIRMACI-SİBER GÜVENLİK-c5ff4a?style=for-the-badge&logo=hackthebox&logoColor=c5ff4a&labelColor=060606" 	alt="Cybersecurity Research" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/PROJE-HACKERLAB-c5ff4a?style=for-the-badge&logo=proxmox&logoColor=c5ff4a&labelColor=060606" alt="HackerLab" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/EĞİTİM-HACKER%20AKADEMİSİ-c5ff4a?style=for-the-badge&logo=readthedocs&logoColor=c5ff4a&labelColor=060606" alt="Hacker Akademisi" /></a>
   </p>
 
   <p>
