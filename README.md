@@ -1,189 +1,262 @@
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/banner.png" width="100%" alt="Ahmet Erdi — Siber Güvenlik Araştırmaları" />
-
-  <h1>AHMET ERDİ</h1>
-
-  <p><b>CYBERSECURITY RESEARCHER&nbsp; / &nbsp;RED TEAM&nbsp; / &nbsp;BLUE TEAM</b></p>
-
-  <p>
-    Siber güvenlik araştırmaları, teknik incelemeler ve uygulamalı laboratuvar çalışmaları yürütüyorum.
-    Bilgi ve deneyimlerimi Türkçe teknik içerikler, araştırma yazıları, laboratuvarlar ve eğitim dokümanlarıyla paylaşmayı hedefliyorum.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-c5ff4a?style=for-the-badge&labelColor=060606&logo=hackthebox&logoColor=c5ff4a" alt="Cybersecurity" />
-    <img src="https://img.shields.io/badge/RESEARCH-HARDWARE%20%26%20SOFTWARE-c5ff4a?style=for-the-badge&labelColor=060606" alt="Hardware and software research" />
-    <img src="https://img.shields.io/badge/CONTENT-TURKISH-c5ff4a?style=for-the-badge&labelColor=060606" alt="Turkish content" />
-  </p>
-
-  <p>
-    <a href="#research">Araştırma Alanları</a> &nbsp;•&nbsp;
-    <a href="#featured-research">Öne Çıkan Araştırma</a> &nbsp;•&nbsp;
-    <a href="#toolkit">Teknik Araçlar</a> &nbsp;•&nbsp;
-    <a href="#initiatives">Girişimler</a> &nbsp;•&nbsp;
-    <a href="#approach">Yaklaşımım</a> &nbsp;•&nbsp;
-    <a href="#contact">İletişim</a>
-  </p>
-
-</div>
-
----
-
-<div align="center">
-
-  <p><b>[ FIELD NOTES ] &nbsp; [ SECURITY RESEARCH ] &nbsp; [ PRACTICAL LEARNING ]</b></p>
-
-  <p><i>Siber güvenlik bilgisini Türkçe, erişilebilir ve uygulamaya dönük kaynaklarla geliştirmek.</i></p>
-
-</div>
-
----
-
-## 01 / Araştırma Alanları <a id="research"></a>
-
-Siber güvenlik çalışmalarım aşağıdaki teknik alanlara odaklanıyor:
-
-| ALAN | ODAK |
-| :--- | :--- |
-| **Sızma Testleri** | Web uygulamaları, API, ağ ve altyapı güvenliği |
-| **Red Team** | Saldırı teknikleri, güvenlik testleri ve saldırı simülasyonları |
-| **Blue Team** | Savunma mekanizmaları, tehdit tespiti ve güvenlik analizi |
-| **Active Directory** | Etki alanı güvenliği ve saldırı yollarının analizi |
-| **Gömülü Sistemler** | Donanım arayüzleri ve cihaz güvenliği |
-| **IoT / ICS / OT** | Nesnelerin interneti ve endüstriyel sistem güvenliği |
-| **Tersine Mühendislik** | Yazılım ve donanım seviyesinde teknik incelemeler |
-| **Güvenlik Araştırmaları** | Zafiyet analizi, güvenlik kontrolleri ve teknik dokümantasyon |
-
----
-
-## 02 / Öne Çıkan Araştırma <a id="featured-research"></a>
-
-<div align="center">
-  <a href="https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi">
-    <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/uart-proje-banner.png" width="100%" alt="UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi" />
+  <a href="https://gitascii.com">
+    <img src="public/icon-512.png" width="96" height="96" alt="GitAscii Logo" />
   </a>
+
+  <h1>GitAscii</h1>
+
+  <p>
+    <b>Where cryptic terminals meet editorial broadsheet design.</b><br />
+    Design a GitHub profile in your browser and publish ASCII and widget SVGs to your own repository.
+  </p>
+
+  <p>
+    <a href="https://github.com/Igorcbraz/GitAscii/stargazers"><img src="https://img.shields.io/github/stars/Igorcbraz/GitAscii?style=for-the-badge&logo=star&color=c5ff4a&logoColor=c5ff4a&labelColor=060606" alt="GitHub Stars" /></a>
+    <a href="https://github.com/Igorcbraz/GitAscii/releases"><img src="https://img.shields.io/github/v/release/Igorcbraz/GitAscii?style=for-the-badge&logo=github&color=c5ff4a&logoColor=c5ff4a&labelColor=060606" alt="Release" /></a>
+    <a href="https://github.com/Igorcbraz/GitAscii/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/Igorcbraz/GitAscii/ci.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=c5ff4a&label=CI&color=c5ff4a&labelColor=060606" alt="CI Status" /></a>
+    <a href="https://github.com/Igorcbraz/GitAscii/actions/workflows/codeql.yml"><img src="https://img.shields.io/github/actions/workflow/status/Igorcbraz/GitAscii/codeql.yml?branch=main&style=for-the-badge&logo=github&logoColor=c5ff4a&label=CodeQL&color=c5ff4a&labelColor=060606" alt="CodeQL" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-c5ff4a?style=for-the-badge&logo=opensourceinitiative&logoColor=060606&labelColor=060606" alt="License GPLv3" /></a>
+  </p>
+
+  <p>
+    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16.3-060606?style=flat-square&logo=nextdotjs&logoColor=c5ff4a" alt="Next.js" /></a>
+    <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.0-060606?style=flat-square&logo=react&logoColor=c5ff4a" alt="React" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-4.0-060606?style=flat-square&logo=tailwindcss&logoColor=c5ff4a" alt="Tailwind" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.7-060606?style=flat-square&logo=typescript&logoColor=c5ff4a" alt="TypeScript" /></a>
+    <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/Storybook-10.5-060606?style=flat-square&logo=storybook&logoColor=c5ff4a" alt="Storybook" /></a>
+    <a href="https://www.cloudflare.com/developer-platform/products/workers/"><img src="https://img.shields.io/badge/Cloudflare-Workers-f38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" /></a>
+  </p>
+
+  <p>
+    <a href="https://gitascii.com">Launch Web App</a> •
+    <a href="#how-it-works">How It Works</a> •
+    <a href="#quickstart">Quickstart</a> •
+    <a href="docs/introduction.mdx">Documentation</a> •
+    <a href="#adding-new-community-templates">Creating Templates</a> •
+    <a href="#developer-scripts">Developer Scripts</a> •
+    <a href="#contributing">Contributing</a>
+  </p>
 </div>
 
-### UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi
+---
 
-**Hedef cihaz:** TP-Link WR840N v6.20  
-**Çalışma türü:** Donanım seviyesinde güvenlik araştırması  
-**Kapsam:** UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğinin incelenmesi  
-**Yapı:** 12 bölümlük teknik araştırma serisi
+<div align="center">
+  <video src="https://github.com/Igorcbraz/GitAscii/raw/main/public/presentation.mp4" controls="controls" width="100%"></video>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-RESEARCH-c5ff4a?style=flat-square&labelColor=060606" alt="Embedded Systems Research" />
-  <img src="https://img.shields.io/badge/UART-ANALYSIS-c5ff4a?style=flat-square&labelColor=060606" alt="UART Analysis" />
-  <img src="https://img.shields.io/badge/HARDWARE-SECURITY-c5ff4a?style=flat-square&labelColor=060606" alt="Hardware Security" />
-</p>
-
-<sub>STATUS: ÜZERİNDE ÇALIŞILIYOR</sub>
-
-**[ PROJEYİ İNCELE → ](https://github.com/erdibilisim/Gomulu-Sistemlerin-Guvenlik-Analizi)**
+> **No setup needed to start:** Design and preview your GitHub profile live in your browser at **[gitascii.com](https://gitascii.com/)**.
 
 ---
 
-## 03 / Teknik Araçlar ve Teknolojiler <a id="toolkit"></a>
+### 🎛️ Visual Drag-and-Drop Builder
 
-### İşletim Sistemleri ve Ortamlar
+Build your complete profile layout intuitively on a real-time reactive canvas. Move, resize, and configure telemetry decks, terminal metrics, and ASCII avatars directly in the browser.
 
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
+<div align="center">
+  <img src="public/editor.webp" alt="GitAscii Visual Editor" width="100%" />
+</div>
 
-### Siber Güvenlik ve Analiz
+<br />
 
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-</p>
+### 📰 The Landing Platform
 
-### Geliştirme ve Otomasyon
+A classified broadsheet aesthetic engineered with brutalist minimalism, monospaced data streams, and high-contrast signal lime accents.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+<div align="center">
+  <img src="public/hero.webp" alt="GitAscii Landing Page" width="100%" />
+</div>
+
+<br />
+
+### ⚡ Published SVG Output
+
+What your GitHub profile renders: dark and light SVG files generated when you publish and refreshed by a GitHub Action. The README uses a `<picture>` element to select the viewer's theme.
+
+<div align="center">
+  <img src="public/example.svg" alt="Generated GitAscii Profile SVG" width="100%" />
+</div>
 
 ---
 
-## 04 / Girişimler <a id="initiatives"></a>
+## How It Works
 
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>HACKER AKADEMİSİ</h3>
-      <p>Siber güvenlik alanında Türkçe eğitim içerikleri, modüler müfredatlar ve teknik dokümantasyon üretmeye odaklanan eğitim girişimi.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>HACKERLAB</h3>
-      <p>Siber güvenlik eğitimlerini uygulamaya dönüştüren, sanallaştırılmış sistemler ve kontrollü laboratuvar ortamları üzerine kurulu uygulamalı eğitim girişimi.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 05 / Araştırma ve Üretim Akışım <a id="approach"></a>
-
-Araştırma ve eğitim içeriklerinde teorik bilgiyi teknik inceleme, uygulama ve dokümantasyonla bir araya getirmeyi amaçlıyorum.
+GitAscii V2 publishes SVG files to a dedicated `gitascii` branch in your GitHub profile repository (`username/username`). A GitHub Action refreshes them from current GitHub data. The normal README embed loads those files from GitHub:
 
 ```mermaid
 flowchart LR
-    A["Konu / Problem"] --> B["Teknik Araştırma"]
-    B --> C["Uygulamalı İnceleme"]
-    C --> D["Laboratuvar Çalışması"]
-    D --> E["Türkçe Dokümantasyon"]
-    E --> F["Eğitim İçeriği"]
-    style A fill:#060606,stroke:#c5ff4a,color:#c5ff4a
-    style B fill:#111111,stroke:#c5ff4a,color:#ffffff
-    style C fill:#111111,stroke:#c5ff4a,color:#ffffff
-    style D fill:#111111,stroke:#c5ff4a,color:#ffffff
-    style E fill:#111111,stroke:#c5ff4a,color:#ffffff
-    style F fill:#060606,stroke:#c5ff4a,color:#c5ff4a
+    A["🎛️ GitAscii Editor + Backend"] -->|"Render and publish via GitHub API"| B["🌿 gitascii branch<br/>(Config + dark/light SVGs)"]
+    W["Default-branch workflow"] -->|"Schedule / workflow_dispatch"| C["GitAscii Action"]
+    B -->|"Read config"| C
+    C -->|"Commit refreshed SVGs via API"| B
+    B -->|"raw.githubusercontent.com"| E["🖼️ GitHub README"]
+
+    style A fill:#1f1f1f,stroke:#c5ff4a,stroke-width:1px,color:#ffffff
+    style B fill:#060606,stroke:#252525,stroke-width:1px,color:#c5ff4a
+    style C fill:#1f1f1f,stroke:#252525,stroke-width:1px,color:#ffffff
+    style E fill:#060606,stroke:#c5ff4a,stroke-width:1px,color:#c5ff4a
 ```
 
-Çalışmalarımda:
+See [Rendering & Publishing Architecture](docs/architecture/rendering-and-publishing.mdx) for the Archify visualization, V1 history, V2 publication sequence, and migration/failure boundaries.
 
-- Bilgiyi Türkçe ve teknik doğruluğu koruyarak paylaşmaya,
-- Teorik konuları uygulamalı laboratuvarlarla desteklemeye,
-- Araştırma süreçlerini anlaşılır ve tekrar uygulanabilir şekilde dokümante etmeye,
-- Siber güvenlik alanında açık kaynaklı ve erişilebilir bilgi üretimini desteklemeye önem veriyorum.
+### 1. Design & Publish
+
+Compose your layout in the [Visual Editor](https://gitascii.com). Sign in, authorize the GitHub App for your profile repository, and use **Publish to GitHub**. The backend attempts repository creation if needed; with repository access, it creates or updates:
+
+- the dedicated `gitascii` branch;
+- `gitascii.json` for the default profile and `gitascii_[slug].json` for additional profiles;
+- dark and light SVG files under `profiles/[slug]/`;
+- `.github/workflows/gitascii.yml` on the default branch.
+
+The app renders an initial dark/light pair at publication. The generated workflow schedules Free runs daily and Pro runs hourly; scheduled publication also respects the effective refresh interval. Manual dispatch bypasses that interval guard. The Action commits changed SVGs together. Pro publication also enables authenticated publication-health reports and a separate analytics badge in the README.
+
+### 2. Embed into your Profile `README.md`
+
+The editor replaces your profile repository's `README.md` with the generated embed. Save existing content before publishing and restore surrounding Markdown afterward. Replace `yourusername` if using this example:
+
+```html
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/yourusername/yourusername/gitascii/profiles/default/dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/yourusername/yourusername/gitascii/profiles/default/light.svg
+    "
+  />
+  <img
+    alt="GitAscii Profile"
+    src="https://raw.githubusercontent.com/yourusername/yourusername/gitascii/profiles/default/dark.svg"
+    width="100%"
+  />
+</picture>
+```
+
+The two URLs remain stable as the repository workflow updates their contents. Additional profiles use `profiles/[slug]/dark.svg` and `light.svg`.
+
+The HTTP rendering API (`/api/[username]`) remains available for previews, custom integrations, and Pro dynamic rules. It is not the default README embed.
+
+For Pro profiles, keep the generated GitAscii badge directly below the `<picture>`. Its analytics count badge fetches observed by GitAscii (usually GitHub Camo cache refreshes), **not exact human views or unique visitors**. GitHub's image proxy does not expose reliable viewer geography, browser, device, or identity. Pro health data comes separately from authenticated workflow runs.
 
 ---
 
-## 06 / GitHub İstatistikleri <a id="github-stats"></a>
+## Adding New Community Templates
+
+Want to share a custom layout with the community? Adding a new template takes two simple steps:
+
+1. **Export the Template JSON in the Editor:**  
+   Click the export template action in the sidebar. GitAscii automatically scrubs personal data (usernames, custom bio, avatars) while preserving the grid layout, widgets, and visual tokens.
+2. **Drop your JSON file into `src/data/templates/`:**  
+   Place your file as `src/data/templates/<template_name>.json` and run `npm run generate:templates` to update the generated registry. Open a Pull Request and your template will be available to all GitAscii users!
+
+---
+
+## Quickstart
+
+Run your own instance of GitAscii locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Igorcbraz/GitAscii.git
+
+# 2. Navigate to the project directory
+cd GitAscii
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+Local browsing and editing work without connecting your own integrations. To test sign-in and **Publish to GitHub**, copy `.env.example` to `.env.local` and set the GitHub OAuth, GitHub App, and `SESSION_SECRET` values. Set `DATABASE_URL` for PostgreSQL persistence and the Upstash variables for Redis-backed features; Stripe and Resend are needed only for their respective Pro billing and email flows. The publisher writes to a GitHub profile repository, so use an account and repository intended for testing.
+
+See the [development and deployment guide](docs/guides/development.mdx), [environment reference](docs/reference/environment.mdx), and [storage operations](docs/guides/operations.mdx) for configuration and recovery boundaries. For product usage, start with the [editor guide](docs/guides/editor.mdx) and [API reference](docs/api/overview.mdx).
+
+---
+
+## Developer Scripts
+
+All available scripts configured in `package.json`:
+
+| Command                   | Description                                                              |
+| :------------------------ | :----------------------------------------------------------------------- |
+| `npm run dev`             | Starts the Next.js local development server on port `3000`               |
+| `npm run build`           | Compiles the production build and verifies type definitions              |
+| `npm run start`           | Boots the compiled Next.js production server                             |
+| `npm run check`           | Runs `typecheck`, `lint`, `test`, and `build` in sequence                |
+| `npm run typecheck`       | Validates all TypeScript types across the codebase (`tsc --noEmit`)      |
+| `npm run lint`            | Analyzes code for issues and stylistic discrepancies using ESLint        |
+| `npm run lint:fix`        | Automatically fixes auto-fixable ESLint warnings and errors              |
+| `npm run format`          | Formats the entire codebase using Prettier                               |
+| `npm run format:check`    | Verifies whether all files conform to Prettier formatting rules          |
+| `npm run fix:all`         | Executes both `lint:fix` and `format` together for complete code cleanup |
+| `npm run test`            | Runs the full unit and integration test suite via **Vitest**             |
+| `npm run test:db`         | Runs the database-specific Vitest suite                                  |
+| `npm run build:action`    | Builds the bundled GitHub Action used to refresh published SVGs          |
+| `npm run test:e2e`        | Runs automated end-to-end browser tests via **Playwright**               |
+| `npm run test:e2e:ui`     | Opens the **Playwright** interactive UI mode for visual debugging        |
+| `npm run storybook`       | Launches the isolated UI widget and component workbench on port `6006`   |
+| `npm run build-storybook` | Compiles the Storybook workbench into a static production bundle         |
+| `npm run email:dev`       | Launches the React Email local preview server on port `3001`             |
+| `npm run docs`            | Launches the interactive documentation server locally via **Mintlify**   |
+| `npm run prepare`         | Configures Git hooks (pre-commit, commit-msg) via **Husky**              |
+
+---
+
+## Contributing
+
+Contributions make the open-source community thrive. Follow this step-by-step workflow to contribute:
+
+```bash
+# 1. Fork the repository on GitHub, then clone your fork
+git clone https://github.com/<your-username>/GitAscii.git
+cd GitAscii
+
+# 2. Install dependencies (initializes Husky hooks)
+npm install
+
+# 3. Create a descriptive feature/fix branch
+git checkout -b feat/my-awesome-feature
+
+# 4. Make your changes and verify code quality
+npm run check
+npm run test
+
+# 5. Commit using Conventional Commits format (enforced by Commitlint)
+git commit -m "feat(editor): add new ASCII matrix filter widget"
+
+# 6. Push to your branch and open a Pull Request
+git push origin feat/my-awesome-feature
+```
+
+Please review our [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before submitting a pull request.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erdibilisim&show_icons=true&theme=transparent&hide_border=true&locale=tr" alt="GitHub İstatistikleri" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdibilisim&layout=compact&theme=transparent&hide_border=true&locale=tr" alt="En Çok Kullanılan Diller" />
+ <img alt="contributors" src="https://contrib.rocks/image?repo=Igorcbraz/GitAscii" />
 </div>
 
----
-
-## 07 / İletişim <a id="contact"></a>
-
-Siber güvenlik araştırmaları, teknik iş birlikleri ve Türkçe kaynak üretimi hakkında iletişim kurabilirsiniz.
+## 📈 Star History
 
 <div align="center">
-
-  <a href="https://github.com/erdibilisim">
-    <img src="https://img.shields.io/badge/GitHub-erdibilisim-c5ff4a?style=for-the-badge&logo=github&logoColor=c5ff4a&labelColor=060606" alt="GitHub erdibilisim" />
+  <a href="https://www.star-history.com/?repos=Igorcbraz%2FGitAscii&type=timeline&legend=top-left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Igorcbraz/GitAscii&type=timeline&theme=dark&legend=top-left&sealed_token=WAD4KArNuQ379AYAAoB6NexJVTlM87nPSibH24PjWHA2xpmSsSX4eJWBlGiU9tbd-YClRBG7XZHaW6SSUVIv27QhMZxnEnV0KgKySkMm5E6C6-iPLWte26fmitbhcT-QChuroLPJjncYMEl-nBkNYlSu4p4g9u5WHKRep13NneGZ7iZaiq0ZngEy0b53" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Igorcbraz/GitAscii&type=timeline&legend=top-left&sealed_token=WAD4KArNuQ379AYAAoB6NexJVTlM87nPSibH24PjWHA2xpmSsSX4eJWBlGiU9tbd-YClRBG7XZHaW6SSUVIv27QhMZxnEnV0KgKySkMm5E6C6-iPLWte26fmitbhcT-QChuroLPJjncYMEl-nBkNYlSu4p4g9u5WHKRep13NneGZ7iZaiq0ZngEy0b53" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Igorcbraz/GitAscii&type=timeline&legend=top-left&sealed_token=WAD4KArNuQ379AYAAoB6NexJVTlM87nPSibH24PjWHA2xpmSsSX4eJWBlGiU9tbd-YClRBG7XZHaW6SSUVIv27QhMZxnEnV0KgKySkMm5E6C6-iPLWte26fmitbhcT-QChuroLPJjncYMEl-nBkNYlSu4p4g9u5WHKRep13NneGZ7iZaiq0ZngEy0b53" width="100%" />
+    </picture>
   </a>
+</div>
 
-  <p><a href="https://github.com/erdibilisim">github.com/erdibilisim</a></p>
+## 📄 License
 
-  <sub>Bu profil, Türkçe siber güvenlik bilgi ve kaynaklarının geliştirilmesine katkı sağlamak amacıyla oluşturulmuştur.</sub>
+Distributed under the **GNU General Public License v3.0 (GPLv3)**. See [`LICENSE`](LICENSE) for more information.
 
+<div align="center">
+  <sub>Engineered with design obsession by <a href="https://github.com/Igorcbraz"><b>@Igorcbraz</b></a>.</sub>
 </div>
