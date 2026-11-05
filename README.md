@@ -84,7 +84,7 @@ Araştırma süreçlerini teknik inceleme, uygulamalı test ve dokümantasyon ad
       </a>
     </td>
     <td width="60%" valign="middle" style="padding:12px;">
-      <h3>UART Protokolü ile Gömülü Sistemlerin Güvenlik Analizi</h3>
+      <h3>Gömülü Sistemlerin Güvenlik Analizi</h3>
       <p><strong>TP-Link WR840N v6.20</strong><br>Donanım Seviyesinde Güvenlik Araştırması</p>
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
       <p>
