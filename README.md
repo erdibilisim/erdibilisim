@@ -57,7 +57,7 @@ Build your complete profile layout intuitively on a real-time reactive canvas. M
   src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/editor.webp"
   alt="Erdi Bilişim Editor"
   width="100%"
-/>
+  />
 </div>
 
 <br />
@@ -67,7 +67,11 @@ Build your complete profile layout intuitively on a real-time reactive canvas. M
 A classified broadsheet aesthetic engineered with brutalist minimalism, monospaced data streams, and high-contrast signal lime accents.
 
 <div align="center">
-  <img src="public/hero.webp" alt="GitAscii Landing Page" width="100%" />
+  <img
+  src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp"
+  alt="Erdi Bilişim Editor"
+  width="100%"
+  />
 </div>
 
 <br />
@@ -77,7 +81,11 @@ A classified broadsheet aesthetic engineered with brutalist minimalism, monospac
 What your GitHub profile renders: dark and light SVG files generated when you publish and refreshed by a GitHub Action. The README uses a `<picture>` element to select the viewer's theme.
 
 <div align="center">
-  <img src="public/example.svg" alt="Generated GitAscii Profile SVG" width="100%" />
+  <img
+  src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/example.svg"
+  alt="Erdi Bilişim Editor"
+  width="100%"
+  />
 </div>
 
 ---
