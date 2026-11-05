@@ -54,7 +54,7 @@ Build your complete profile layout intuitively on a real-time reactive canvas. M
 
 <div align="center">
   <img
-  src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/public/editor.webp"
+  src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/editor.webp"
   alt="Erdi Bilişim Editor"
   width="100%"
 />
