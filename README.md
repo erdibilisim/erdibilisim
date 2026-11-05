@@ -1,30 +1,29 @@
+
 <div align="center">
-  <a href="#">
-    <img src="public/icon-512.png" width="96" height="96" alt="Ahmet Erdi Logo" />
-  </a>
- <div align="center">
-	<img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp" alt="Siber Güvenlik Araştırmaları" width="100%" />
- </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp" alt="Ahmet Erdi - Siber Güvenlik Araştırmaları" width="100%" />
+  </div>
 
   <p>
-    <b>Cybersecurity Researcher · Red Team · Blue Team</b><br />
-    Siber güvenlik araştırmaları, teknik incelemeler ve uygulamalı laboratuvar çalışmaları yürütüyorum.
-    Bilgi ve deneyimlerimi Türkçe teknik içerikler, araştırma yazıları ve eğitim dokümanlarıyla paylaşmayı hedefliyorum.
+    <b>Cybersecurity Researcher · Security Labs · Technical Education</b><br />
+    Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü laboratuvar çalışmaları yürütüyorum.
+    Web ve API güvenliğinden ağ güvenliğine, donanım ve gömülü sistem araştırmalarına kadar farklı alanlarda
+    edindiğim bilgi ve deneyimleri teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyorum.
   </p>
 
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-c5ff4a?style=for-the-badge&logo=hackthebox&logoColor=c5ff4a&labelColor=060606" alt="Cybersecurity" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/RESEARCH-RED%20%26%20BLUE%20TEAM-c5ff4a?style=for-the-badge&logo=kalilinux&logoColor=c5ff4a&labelColor=060606" alt="Red Team and Blue Team" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/CONTENT-TURKISH-c5ff4a?style=for-the-badge&logo=readthedocs&logoColor=c5ff4a&labelColor=060606" alt="Turkish technical content" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/RESEARCH-HARDWARE%20%26%20SOFTWARE-c5ff4a?style=for-the-badge&logo=linux&logoColor=c5ff4a&labelColor=060606" alt="Hardware and software research" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/RESEARCH-CYBERSECURITY-c5ff4a?style=for-the-badge&logo=hackthebox&logoColor=c5ff4a&labelColor=060606" alt="Cybersecurity Research" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/FOCUS-RED%20%26%20BLUE%20TEAM-c5ff4a?style=for-the-badge&logo=kalilinux&logoColor=c5ff4a&labelColor=060606" alt="Red Team and Blue Team" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/PROJECTS-HACKERLAB-c5ff4a?style=for-the-badge&logo=proxmox&logoColor=c5ff4a&labelColor=060606" alt="HackerLab" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/EDUCATION-HACKER%20AKADEMISI-c5ff4a?style=for-the-badge&logo=readthedocs&logoColor=c5ff4a&labelColor=060606" alt="Hacker Akademisi" /></a>
   </p>
 
   <p>
     <a href="#">Research Areas</a> •
-    <a href="#">Featured Research</a> •
-    <a href="#">Research Workflow</a> •
+    <a href="#">Featured Projects</a> •
     <a href="#">Technical Toolkit</a> •
-    <a href="#">Initiatives</a> •
+    <a href="#">HackerLab</a> •
+    <a href="#">Hacker Akademisi</a> •
     <a href="#">GitHub</a> •
     <a href="#">Contact</a>
   </p>
@@ -33,8 +32,8 @@
 ---
 
 <div align="center">
-  <p><b>[ CYBERSECURITY ] &nbsp; [ TECHNICAL RESEARCH ] &nbsp; [ PRACTICAL LEARNING ]</b></p>
-  <p><i>Siber güvenlik bilgisini Türkçe, erişilebilir ve uygulamaya dönük kaynaklarla geliştirmek.</i></p>
+  <p><b>[ RESEARCH ] &nbsp; [ BUILD ] &nbsp; [ TEST ] &nbsp; [ SHARE KNOWLEDGE ]</b></p>
+  <p><i>Güvenliği anlamak, sistemleri analiz etmek, bilgiyi uygulamayla paylaşmak.</i></p>
 </div>
 
 ---
