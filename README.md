@@ -19,6 +19,15 @@
     teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyoruz.
   </p>
 
+</div>
+
+---
+<div align="center">
+  <h2>
+    Bilgiyle keşfet, deneyimle güçlen,<br />
+    güvenlikle geleceği şekillendir.
+  </h2>
+
   <p>
     <a href="#research-areas">Araştırma Alanlarımız</a>
     &nbsp;•&nbsp;
@@ -33,23 +42,6 @@
     <a href="https://github.com/erdibilisim">GitHub</a>
     &nbsp;•&nbsp;
     <a href="#contact">Contact</a>
-  </p>
-
-</div>
-
----
-<div align="center">
-  <h3>
-    Öğrenmekle başla, araştırarak derinleş,<br />
-    deneyimleyerek geliştir, güvenliği sağlayarak uzmanlaş.
-  </h3>
-
-  <p>
-    <strong>⬡ BİLGİ</strong>
-    ━━━━━━━━▶
-    <strong>⬡ DENEYİM</strong>
-    ━━━━━━━━▶
-    <strong>⬡ GÜVENLİK</strong>
   </p>
 </div>
 
