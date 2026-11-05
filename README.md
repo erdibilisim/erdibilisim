@@ -78,7 +78,7 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 			Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali
 		</a>
 	  </h3>
-      <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong><a href="#"> TP-Link WR840N v6.20</a></p>
+      <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong>&nbsp;<a href="#">TP-Link WR840N v6.20</a></p>
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
       <p>
         <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-RESEARCH-c5ff4a?style=flat-square&labelColor=060606" alt="Embedded Systems Research">
