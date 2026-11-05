@@ -6,17 +6,17 @@
     <strong>
       <a href="https://github.com/erdibilisim#featured-hardware-security-research">Siber Güvenlik Araştırmacısı</a>
       &nbsp;|&nbsp;
-      <a href="#">Hacker Akademisi</a> Kurucusu
-      &nbsp;|&nbsp;
-      <a href="#">HackerLab</a> Kurucusu
+      <a href="#">Hacker Akademisi</a>
+      &nbsp;&&nbsp;
+      <a href="#">HackerLab</a> Markalarının Kurucusu
     </strong>
   </p>
 
   <p>
-    Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü
-    laboratuvar çalışmaları yürütüyoruz Web ve API güvenliğinden ağ güvenliğine, donanım
-    ve gömülü sistem araştırmalarına kadar farklı alanlarda edindiğimiz bilgi ve deneyimleri
-    teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyoruz.
+    Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü laboratuvar çalışmaları gerçekleştiriyoruz. 
+	Web ve API güvenliğinden ağ güvenliğine, donanım güvenliğinden gömülü sistem araştırmalarına uzanan geniş bir alanda çalışmalar yürütüyoruz. 
+	Elde ettiğimiz bilgi ve deneyimleri teknik projeler, Türkçe eğitim içerikleri ve kapsamlı araştırma dokümanları aracılığıyla paylaşarak siber 
+	güvenlik alanında bilgi üretimine ve teknik yetkinliğin gelişimine katkı sağlamayı hedefliyoruz.
   </p>
 
 </div>
