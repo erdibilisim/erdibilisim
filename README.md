@@ -47,7 +47,7 @@
     &nbsp;•&nbsp;
     <a href="https://github.com/erdibilisim">GitHub</a>
     &nbsp;•&nbsp;
-    <a href="#contact">Contact</a>
+    <a href="#contact">İletişim</a>
   </p>
 </div>
 
@@ -134,7 +134,7 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 [HackerLab deposunu ziyaret et](#)
 
 ---
-## Contact
+<h2 id="contack">İletişim</h2>
 
 Araştırmalar, teknik iş birlikleri ve eğitim içerikleri hakkında iletişim kurmak için GitHub profilimi ziyaret edebilirsiniz.
 
