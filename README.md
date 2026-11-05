@@ -53,7 +53,11 @@
 Build your complete profile layout intuitively on a real-time reactive canvas. Move, resize, and configure telemetry decks, terminal metrics, and ASCII avatars directly in the browser.
 
 <div align="center">
-  <img src="public/editor.webp" alt="GitAscii Visual Editor" width="100%" />
+  <img
+  src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/public/editor.webp"
+  alt="Erdi Bilişim Editor"
+  width="100%"
+/>
 </div>
 
 <br />
