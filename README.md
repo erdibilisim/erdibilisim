@@ -27,10 +27,12 @@
 
 ---
 <div align="center">
-  <h2>
-    Bilgiyle keşfet, deneyimle güçlen,<br />
-    güvenlikle geleceği şekillendir.
-  </h2>
+
+   <img
+    src="./assets/nav-banner.png"
+    alt="Bilgiyle keşfet, deneyimle güçlen, güvenlikle geleceği şekillendir."
+    width="100%"
+  />
 
   <p>
     <a href="#research-areas">Araştırma Alanlarımız</a>
