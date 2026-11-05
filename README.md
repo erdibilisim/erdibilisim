@@ -1,22 +1,25 @@
 <div align="center">
 
   <img src="./assets/banner.png" alt="Ahmet Erdi - Cybersecurity Researcher" width="100%" />
+  
+  <br>
 
   <p>
     <strong>
-      <a href="https://github.com/erdibilisim#featured-hardware-security-research">Siber Güvenlik Araştırmacısı</a>
+      <h3><a href="https://github.com/erdibilisim#featured-hardware-security-research">Siber Güvenlik Araştırmacısı</a></h3>
       &nbsp;|&nbsp;
-      <a href="#">Hacker Akademisi</a>
+      <h3><a href="#">Hacker Akademisi</a></h3>
       &nbsp;&&nbsp;
-      <a href="#">HackerLab</a> Markalarının Kurucusu
+      <h3><a href="#">HackerLab</a> Markalarının Kurucusu</h3>
     </strong>
   </p>
 
   <p>
     Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü laboratuvar çalışmaları gerçekleştiriyoruz. 
-	Web ve API güvenliğinden ağ güvenliğine, donanım güvenliğinden gömülü sistem araştırmalarına uzanan geniş bir alanda çalışmalar yürütüyoruz. 
-	Elde ettiğimiz bilgi ve deneyimleri teknik projeler, Türkçe eğitim içerikleri ve kapsamlı araştırma dokümanları aracılığıyla paylaşarak siber 
-	güvenlik alanında bilgi üretimine ve teknik yetkinliğin gelişimine katkı sağlamayı hedefliyoruz.
+	Web ve API güvenliğinden ağ güvenliğine, donanım güvenliğinden gömülü sistem araştırmalarına kadar geniş bir yelpazede çalışmalar yürütüyoruz. 
+	Bu çalışmalar kapsamında edindiğimiz bilgi ve deneyimleri teknik projelere, uygulamalı eğitimlere ve kapsamlı araştırma dokümanlarına dönüştürüyoruz. 
+	Temel hedefimiz; siber güvenlik alanında nitelikli, erişilebilir ve özgün Türkçe teknik kaynaklar üreterek bilgi ve deneyimin paylaşımını teşvik etmek, 
+	teknik yetkinliği geliştirmek ve daha güçlü bir siber güvenlik ekosisteminin oluşmasına katkı sağlamaktır.
   </p>
 
 </div>
