@@ -39,39 +39,20 @@
 
 ---
 
-
 <div align="center">
-
-  <h2>
-    <samp>RESEARCH <font color="#00CFFF">✦</font> ANALYZE <font color="#00CFFF">✦</font> EXPERIMENT <font color="#00CFFF">✦</font> SECURE</samp>
-  </h2>
-
-  <p>
-    <strong>
-      <font color="#00CFFF">ARAŞTIR.</font>
-      <font color="#FFFFFF"> ANALİZ ET.</font>
-      <font color="#00CFFF"> DENEYİMLE.</font>
-      <font color="#FFFFFF"> GÜVENLİĞİ GELİŞTİR.</font>
-    </strong>
-  </p>
+  <h3>
+    Öğrenmekle başla, araştırarak derinleş,<br />
+    deneyimleyerek geliştir, güvenliği sağlayarak uzmanlaş.
+  </h3>
 
   <p>
-    <em>
-      Siber güvenlikte her iz bir ipucu, her test bir keşif,
-      her bulgu yeni bir öğrenme fırsatıdır.
-    </em>
+    <code>[ BİLGİ ]</code>
+    ━━━━━━━━━
+    <code>[ DENEYİM ]</code>
+    ━━━━━━━━━
+    <code>[ GÜVENLİK ]</code>
   </p>
-
-  <p>
-    <code> [ KNOWLEDGE ] </code>
-    <font color="#00CFFF"> ━━━━━━━━━ </font>
-    <code> [ EXPERIENCE ] </code>
-    <font color="#00CFFF"> ━━━━━━━━━ </font>
-    <code> [ SECURITY ] </code>
-  </p>
-
 </div>
-
 
 ---
 
