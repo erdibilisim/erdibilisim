@@ -5,7 +5,11 @@
   </div>
 
   <p>
-    <b>Cybersecurity Researcher · Security Labs · Technical Education</b><br />
+    <b><p>
+		<a href="https://github.com/erdibilisim">Siber Güvenlik Araştırmacısı</a> |
+		<a href="#">Hacker Akademisi</a> Kurucusu |
+		<a href="#">HackerLab</a> Kurucusu
+	  </p></b><br />
     Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü laboratuvar çalışmaları yürütüyorum.
     Web ve API güvenliğinden ağ güvenliğine, donanım ve gömülü sistem araştırmalarına kadar farklı alanlarda
     edindiğim bilgi ve deneyimleri teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyorum.
