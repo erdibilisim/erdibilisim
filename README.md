@@ -134,7 +134,7 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 [HackerLab deposunu ziyaret et](#)
 
 ---
-<h2 id="contack">İletişim</h2>
+<h2 id="contact">İletişim</h2>
 
 Araştırmalar, teknik iş birlikleri ve eğitim içerikleri hakkında iletişim kurmak için GitHub profilimi ziyaret edebilirsiniz.
 
