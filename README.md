@@ -52,6 +52,7 @@
 </div>
 
 ---
+## Research Areas
 
 <h2 id="research-areas">Araştırma Alanlarımız</h2>
 
@@ -67,78 +68,21 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 | Linux Security | Linux sistem yönetimi, erişim kontrolleri ve güvenlik incelemeleri |
 | Security Automation | Python, JavaScript ve otomasyon odaklı araç geliştirme |
 
+---
+## Technical Toolkit
 
 <h2 id="technical-toolkit">Teknik Araç Seti</h2>
 
-<div align="center">
+| Kategori | Kullanılan araçlar ve teknolojiler |
+|---|---|
+| Operating Systems & Infrastructure | [Kali Linux](https://www.kali.org/), [Ubuntu](https://ubuntu.com/), [Debian](https://www.debian.org/), [Windows](https://www.microsoft.com/windows), [Proxmox VE](https://www.proxmox.com/), [pfSense](https://www.netgate.com/pfsense) |
+| Web & API Security | [Burp Suite](https://portswigger.net/burp), [OWASP ZAP](https://www.zaproxy.org/), [Postman](https://www.postman.com/), [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/), [SQLmap](https://sqlmap.org/), [FFUF](https://github.com/ffuf/ffuf) |
+| Network Security | [Nmap](https://nmap.org/), [Wireshark](https://www.wireshark.org/), [Metasploit](https://www.metasploit.com/) |
+| Development & Automation | [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/), [Bash](https://www.gnu.org/software/bash/), [Git](https://git-scm.com/), [Docker](https://www.docker.com/) |
+| Database & Web Technologies | [MySQL](https://www.mysql.com/), [Express.js](https://expressjs.com/), [Nginx](https://nginx.org/), [PM2](https://pm2.keymetrics.io/) |
+| Hardware & Embedded Security | [Ghidra](https://ghidra-sre.org/), [Arduino](https://www.arduino.cc/), [Raspberry Pi](https://www.raspberrypi.com/) |
 
-  <!-- OPERATING SYSTEMS & INFRASTRUCTURE -->
-  <h4>Operating Systems & Infrastructure</h4>
-
-  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
-  <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" /></a>
-  <a href="https://www.proxmox.com/en/" target="_blank"><img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" /></a>
-  <a href="https://www.netgate.com/pfsense" target="_blank"><img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" /></a>
-
-  <br />
-
-  <!-- SECURITY & PENETRATION TESTING -->
-  <h4>Security & Penetration Testing</h4>
-
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /></a>
-  <a href="https://www.zaproxy.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" /></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" alt="Nmap" /></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></a>
-  <a href="https://sqlmap.org/" target="_blank"><img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white" alt="SQLmap" /></a>
-  <a href="https://github.com/ffuf/ffuf" target="_blank"><img src="https://img.shields.io/badge/FFUF-333333?style=for-the-badge&logo=github&logoColor=white" alt="FFUF" /></a>
-
-  <br />
-
-  <!-- WEB & API SECURITY -->
-  <h4>Web & API Security</h4>
-
-  <a href="https://owasp.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" /></a>
-  <a href="https://owasp.org/www-project-juice-shop/" target="_blank"><img src="https://img.shields.io/badge/Juice_Shop-F59E0B?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Juice Shop" /></a>
-  <a href="https://portswigger.net/web-security" target="_blank"><img src="https://img.shields.io/badge/Web_Security-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="PortSwigger Web Security Academy" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
-
-  <br />
-
-  <!-- DEVELOPMENT & AUTOMATION -->
-  <h4>Development & Automation</h4>
-
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-
-  <br />
-
-  <!-- DATABASE & WEB TECHNOLOGIES -->
-  <h4>Database & Web Technologies</h4>
-
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
-
-  <br />
-
-  <!-- HARDWARE & EMBEDDED SECURITY -->
-  <h4>Hardware & Embedded Security</h4>
-
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
-  <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /></a>
-  <a href="https://ghidra-sre.org/" target="_blank"><img src="https://img.shields.io/badge/Ghidra-BF0D3E?style=for-the-badge&logoColor=white" alt="Ghidra" /></a>
-
-</div>
-
-
+---
 ## Featured Hardware Security Research
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
