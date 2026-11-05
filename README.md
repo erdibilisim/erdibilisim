@@ -39,17 +39,43 @@
 
 ---
 
+
 <div align="center">
 
-  **RESEARCH · ANALYZE · EXPERIMENT · SECURE**
+  <h2>
+    <samp>RESEARCH <font color="#00CFFF">✦</font> ANALYZE <font color="#00CFFF">✦</font> EXPERIMENT <font color="#00CFFF">✦</font> SECURE</samp>
+  </h2>
 
-  *Merakla araştır. Disiplinle test et. Titizlikle belgele.*
+  <p>
+    <strong>
+      <font color="#00CFFF">ARAŞTIR.</font>
+      <font color="#FFFFFF"> ANALİZ ET.</font>
+      <font color="#00CFFF"> DENEYİMLE.</font>
+      <font color="#FFFFFF"> GÜVENLİĞİ GELİŞTİR.</font>
+    </strong>
+  </p>
+
+  <p>
+    <em>
+      Siber güvenlikte her iz bir ipucu, her test bir keşif,
+      her bulgu yeni bir öğrenme fırsatıdır.
+    </em>
+  </p>
+
+  <p>
+    <code> [ KNOWLEDGE ] </code>
+    <font color="#00CFFF"> ━━━━━━━━━ </font>
+    <code> [ EXPERIENCE ] </code>
+    <font color="#00CFFF"> ━━━━━━━━━ </font>
+    <code> [ SECURITY ] </code>
+  </p>
 
 </div>
 
+
 ---
 
-## Research Areas
+## Araştırma Alanları
 
 Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum:
 
