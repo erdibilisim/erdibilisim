@@ -1,10 +1,9 @@
 
 <div align="center">
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp" alt="Ahmet Erdi - Siber Güvenlik Araştırmaları" width="100%" />
-  </div>
+	<div align="center">
+		<img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp" alt="Ahmet Erdi - Siber Güvenlik Araştırmaları" width="100%" />
+	</div>
 
-  <div align="center">
 	  <p>
 		<a href="https://github.com/erdibilisim#user-repositories-list"><b>Siber Güvenlik Araştırmacısı</b></a>
 		|
@@ -35,8 +34,7 @@
 		<a href="#">GitHub</a> •
 		<a href="#">Contact</a>
 	  </p>
-  </div>
-
+</div>
 ---
 
 <div align="center">
