@@ -39,7 +39,7 @@
     &nbsp;•&nbsp;
     <a href="#technical-toolkit">Teknik Araç Seti</a>
     &nbsp;•&nbsp;
-    <a href="#featured-hardware-security-research">Featured Research</a>
+    <a href="#featured-hardware-security-research">Yayınlanmış Araştırmalarımız</a>
     &nbsp;•&nbsp;
     <a href="#hacker-akademisi">Hacker Akademisi</a>
     &nbsp;•&nbsp;
@@ -52,7 +52,6 @@
 </div>
 
 ---
-## Research Areas
 
 <h2 id="research-areas">Araştırma Alanlarımız</h2>
 
@@ -69,7 +68,6 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 | Security Automation | Python, JavaScript ve otomasyon odaklı araç geliştirme |
 
 ---
-## Technical Toolkit
 
 <h2 id="technical-toolkit">Teknik Araç Seti</h2>
 
@@ -83,7 +81,8 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 | Hardware & Embedded Security | [Ghidra](https://ghidra-sre.org/), [Arduino](https://www.arduino.cc/), [Raspberry Pi](https://www.raspberrypi.com/) |
 
 ---
-## Featured Hardware Security Research
+
+<h2 id="featured-hardware-security-research">Yayınlanmış Çalışmalarımız</h2>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
