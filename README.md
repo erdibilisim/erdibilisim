@@ -55,7 +55,7 @@
 
 ---
 
-## Araştırma Alanlarımız
+<h2 id="research-areas">Araştırma Alanlarımız</h2>
 
 Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum:
 
