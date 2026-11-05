@@ -1,7 +1,7 @@
 
 <div align="center">
   <div align="center">
-    <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp" alt="Ahmet Erdi - Siber Güvenlik Araştırmaları" width="100%" />
+    <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/banner.png" alt="Erdi Bilişim Teknolojileri" width="100%" />
   </div>
 
 <!-- PROFILE TITLE -->
