@@ -39,7 +39,7 @@
     &nbsp;•&nbsp;
     <a href="#technical-toolkit">Teknik Araç Seti</a>
     &nbsp;•&nbsp;
-    <a href="#featured-hardware-security-research">Yayınlanmış Araştırmalarımız</a>
+    <a href="#featured-hardware-security-research">Yayınlanmış Çalışmalarımız</a>
     &nbsp;•&nbsp;
     <a href="#hacker-akademisi">Hacker Akademisi</a>
     &nbsp;•&nbsp;
