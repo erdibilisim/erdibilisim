@@ -4,30 +4,62 @@
     <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp" alt="Ahmet Erdi - Siber Güvenlik Araştırmaları" width="100%" />
   </div>
 
+<!-- PROFILE TITLE -->
+<p>
+  <strong>
+    <a href="https://github.com/erdibilisim#featured-hardware-security-research">Siber Güvenlik Araştırmacısı</a>
+    &nbsp;|&nbsp;
+    <a href="#">Hacker Akademisi</a> Kurucusu
+    &nbsp;|&nbsp;
+    <a href="#">HackerLab</a> Kurucusu
+  </strong>
+</p>
+
+<!-- INTRODUCTION -->
+<p>
+  Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü laboratuvar çalışmaları yürütüyorum.
+  Web ve API güvenliğinden ağ güvenliğine, donanım ve gömülü sistem araştırmalarına kadar farklı alanlarda
+  edindiğim bilgi ve deneyimleri teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyorum.
+</p>
+
+  <!-- PROJECT BADGES -->
   <p>
-    <b><p>
-		<a href="https://github.com/erdibilisim#featured-hardware-security-research">Siber Güvenlik Araştırmacısı</a> |
-		<a href="#">Hacker Akademisi</a> &
-		<a href="#">HackerLab</a> Kurucusu
-	  </p></b><br />
-    Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü laboratuvar çalışmaları yürütüyorum.
-    Web ve API güvenliğinden ağ güvenliğine, donanım ve gömülü sistem araştırmalarına kadar farklı alanlarda
-    edindiğim bilgi ve deneyimleri teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyorum.
+    <a href="https://github.com/erdibilisim#featured-hardware-security-research">
+      <img
+        src="https://camo.githubusercontent.com/3e56cadea577cdf6841d5e0525c46ada95d29c7092c08b0d2c659c576a8eaf4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f415241c59e5449524d4143492d53c4b04245522047c39c56454e4cc4b04b2d6335666634613f7374796c653d666f722d7468652d6261646765266c6f676f3d6861636b746865626f78266c6f676f436f6c6f723d633566663461266c6162656c436f6c6f723d303630363036"
+        alt="Cybersecurity Research"
+      />
+    </a>
+    &nbsp;
+    <a href="https://github.com/erdibilisim#">
+      <img
+        src="https://camo.githubusercontent.com/831cac05dd201c4d48ac910e800de88ba273ce757c73978f8e93b02f22b3e9c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50524f4a452d4841434b45524c41422d6335666634613f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f786d6f78266c6f676f436f6c6f723d633566663461266c6162656c436f6c6f723d303630363036"
+        alt="HackerLab"
+      />
+    </a>
+    &nbsp;
+    <a href="https://github.com/erdibilisim#">
+      <img
+        src="https://camo.githubusercontent.com/161ad65b65654d79ac945865c12836109e06364a448a2e20471c1055363e0efd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45c49ec4b054c4b04d2d4841434b4552253230414b4144454dc4b053c4b02d6335666634613f7374796c653d666f722d7468652d6261646765266c6f676f3d72656164746865646f6373266c6f676f436f6c6f723d633566663461266c6162656c436f6c6f723d303630363036"
+        alt="Hacker Akademisi"
+      />
+    </a>
   </p>
 
+  <!-- NAVIGATION -->
   <p>
-    <a href="https://github.com/erdibilisim#featured-hardware-security-research"><img src="https://img.shields.io/badge/ARAŞTIRMACI-SİBER GÜVENLİK-c5ff4a?style=for-the-badge&logo=hackthebox&logoColor=c5ff4a&labelColor=060606" 	alt="Cybersecurity Research" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/PROJE-HACKERLAB-c5ff4a?style=for-the-badge&logo=proxmox&logoColor=c5ff4a&labelColor=060606" alt="HackerLab" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/EĞİTİM-HACKER%20AKADEMİSİ-c5ff4a?style=for-the-badge&logo=readthedocs&logoColor=c5ff4a&labelColor=060606" alt="Hacker Akademisi" /></a>
-  </p>
-
-  <p>
-    <a href="#">Research Areas</a> •
-    <a href="#">Featured Projects</a> •
-    <a href="#">Technical Toolkit</a> •
-    <a href="#">HackerLab</a> •
-    <a href="#">Hacker Akademisi</a> •
-    <a href="#">GitHub</a> •
+    <a href="#">Research Areas</a>
+    &nbsp;•&nbsp;
+    <a href="#">Featured Projects</a>
+    &nbsp;•&nbsp;
+    <a href="#">Technical Toolkit</a>
+    &nbsp;•&nbsp;
+    <a href="#">HackerLab</a>
+    &nbsp;•&nbsp;
+    <a href="#">Hacker Akademisi</a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/erdibilisim">GitHub</a>
+    &nbsp;•&nbsp;
     <a href="#">Contact</a>
   </p>
 </div>
