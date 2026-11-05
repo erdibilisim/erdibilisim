@@ -5,13 +5,14 @@
   <br>
 
   <p>
-    <strong>
-      <h3><a href="https://github.com/erdibilisim#featured-hardware-security-research">Siber Güvenlik Araştırmacısı</a></h3>
-      &nbsp;|&nbsp;
-      <h3><a href="#">Hacker Akademisi</a></h3>
-      &nbsp;&&nbsp;
-      <h3><a href="#">HackerLab</a> Markalarının Kurucusu</h3>
-    </strong>
+    <h3>
+		<a href="https://github.com/erdibilisim#featured-hardware-security-research">Siber Güvenlik Araştırmacısı</a>
+		&nbsp;|&nbsp;
+		<a href="#">Hacker Akademisi</a>
+		&nbsp;&&nbsp;
+		<a href="#">HackerLab</a>
+		Markalarının Kurucusu
+	</h3>
   </p>
 
   <p>
