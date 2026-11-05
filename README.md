@@ -87,13 +87,14 @@ Araştırma süreçlerini teknik inceleme, uygulamalı test ve dokümantasyon ad
       <h3>Gömülü Sistemlerin Güvenlik Analizi</h3>
       <p><strong>TP-Link WR840N v6.20</strong><br>Donanım Seviyesinde Güvenlik Araştırması</p>
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
+	  <p><strong>ÜZERİNDE ÇALIŞILIYOR!</strong></p>
       <p>
         <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-RESEARCH-c5ff4a?style=flat-square&labelColor=060606" alt="Embedded Systems Research">
         <img src="https://img.shields.io/badge/UART-ANALYSIS-c5ff4a?style=flat-square&labelColor=060606" alt="UART Analysis">
         <img src="https://img.shields.io/badge/HARDWARE-SECURITY-c5ff4a?style=flat-square&labelColor=060606" alt="Hardware Security">
       </p>
-      <p>🟡 <strong>ÜZERİNDE ÇALIŞILIYOR</strong></p>
       <p><a href="#"><strong>📂 ARAŞTIRMAYI İNCELE →</strong></a></p>
+	  </br>
     </td>
   </tr>
 </table>
