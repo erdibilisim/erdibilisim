@@ -110,9 +110,9 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 
 
 
-## Initiatives
+## Marka ve Girişimlerimiz
 
-### Hacker Akademisi
+<h2 id="hacker-akademisi">Hacker Akademisi</h2>
 
 **Hacker Akademisi**, siber güvenlik konularını Türkçe, aşamalı ve uygulama odaklı eğitim içerikleriyle sunmayı amaçlayan eğitim platformudur.
 
@@ -123,7 +123,7 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 
 [Hacker Akademisi deposunu ziyaret et](#)
 
-### HackerLab
+<h2 id="hackerlab">HackerLab</h2>
 
 **HackerLab**, siber güvenlik eğitimleri için kontrollü sanal laboratuvarlar, hedef sistemler ve uygulamalı test senaryoları geliştirmeye odaklanan çalışma alanımdır.
 
@@ -132,26 +132,6 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
 - Uygulamalı senaryolar ve teknik dokümantasyon
 
 [HackerLab deposunu ziyaret et](#)
-
-## Research Workflow
-
-```text
-   RESEARCH
-      |
-      v
-   ANALYZE
-      |
-      v
-   BUILD A CONTROLLED LAB
-      |
-      v
-   TEST & VALIDATE
-      |
-      v
-   DOCUMENT & SHARE
-```
-
-Çalışmalarımda kontrollü test ortamlarını, tekrarlanabilir yöntemleri ve teknik bulguların açık biçimde belgelenmesini esas alıyorum.
 
 ## Contact
 
