@@ -38,7 +38,6 @@
 </div>
 
 ---
-
 <div align="center">
   <h3>
     Öğrenmekle başla, araştırarak derinleş,<br />
@@ -46,11 +45,11 @@
   </h3>
 
   <p>
-    <code>[ BİLGİ ]</code>
-    ━━━━━━━━━
-    <code>[ DENEYİM ]</code>
-    ━━━━━━━━━
-    <code>[ GÜVENLİK ]</code>
+    <strong>⬡ BİLGİ</strong>
+    ━━━━━━━━▶
+    <strong>⬡ DENEYİM</strong>
+    ━━━━━━━━▶
+    <strong>⬡ GÜVENLİK</strong>
   </p>
 </div>
 
