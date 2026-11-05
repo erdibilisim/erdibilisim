@@ -73,7 +73,11 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
       </a>
     </td>
     <td width="60%" valign="middle" style="padding:12px;">
-      <h3>Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali</h3>
+      <h3>
+		<a href="#">
+			Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali
+		</a>
+	  </h3>
       <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br><strong>Hedef:<strong> TP-Link WR840N v6.20</p>
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
       <p>
@@ -81,8 +85,6 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
         <img src="https://img.shields.io/badge/UART-ANALYSIS-c5ff4a?style=flat-square&labelColor=060606" alt="UART Analysis">
         <img src="https://img.shields.io/badge/HARDWARE-SECURITY-c5ff4a?style=flat-square&labelColor=060606" alt="Hardware Security">
       </p>
-      <p><a href="#"><strong>📂 ARAŞTIRMAYI İNCELE →</strong></a></p>
-	  </br>
     </td>
   </tr>
 </table>
