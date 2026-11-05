@@ -14,13 +14,13 @@
 
   <p>
     Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü
-    laboratuvar çalışmaları yürütüyorum. Web ve API güvenliğinden ağ güvenliğine, donanım
-    ve gömülü sistem araştırmalarına kadar farklı alanlarda edindiğim bilgi ve deneyimleri
-    teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyorum.
+    laboratuvar çalışmaları yürütüyoruz Web ve API güvenliğinden ağ güvenliğine, donanım
+    ve gömülü sistem araştırmalarına kadar farklı alanlarda edindiğimiz bilgi ve deneyimleri
+    teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyoruz.
   </p>
 
   <p>
-    <a href="#research-areas">Research Areas</a>
+    <a href="#research-areas">Araştırma Alanlarımız</a>
     &nbsp;•&nbsp;
     <a href="#featured-hardware-security-research">Featured Research</a>
     &nbsp;•&nbsp;
@@ -55,7 +55,7 @@
 
 ---
 
-## Araştırma Alanları
+## Araştırma Alanlarımız
 
 Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum:
 
