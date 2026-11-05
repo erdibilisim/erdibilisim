@@ -1,40 +1,38 @@
 
 <div align="center">
-	<div align="center">
-		<img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp" alt="Ahmet Erdi - Siber Güvenlik Araştırmaları" width="100%" />
-	</div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp" alt="Ahmet Erdi - Siber Güvenlik Araştırmaları" width="100%" />
+  </div>
 
-	  <p>
-		<a href="https://github.com/erdibilisim#user-repositories-list"><b>Siber Güvenlik Araştırmacısı</b></a>
-		|
-		<a href="#"><b>Hacker Akademisi</b></a> Kurucusu
-		|
-		<a href="#"><b>HackerLab</b></a> Kurucusu
-	  </p>
+  <p>
+    <b><p>
+		<a href="https://github.com/erdibilisim#user-repositories-list">Siber Güvenlik Araştırmacısı</a> |
+		<a href="#">Hacker Akademisi</a> Kurucusu |
+		<a href="#">HackerLab</a> Kurucusu
+	  </p></b><br />
+    Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü laboratuvar çalışmaları yürütüyorum.
+    Web ve API güvenliğinden ağ güvenliğine, donanım ve gömülü sistem araştırmalarına kadar farklı alanlarda
+    edindiğim bilgi ve deneyimleri teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyorum.
+  </p>
 
-	  <p>
-		Siber güvenlik alanında teknik araştırmalar, uygulamalı güvenlik testleri ve kontrollü laboratuvar çalışmaları yürütüyorum.
-		Web ve API güvenliğinden ağ güvenliğine, donanım ve gömülü sistem araştırmalarına kadar farklı alanlarda
-		edindiğim bilgi ve deneyimleri teknik projeler, Türkçe eğitim içerikleri ve araştırma dokümanlarıyla paylaşıyorum.
-	  </p>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/RESEARCH-CYBERSECURITY-c5ff4a?style=for-the-badge&logo=hackthebox&logoColor=c5ff4a&labelColor=060606" alt="Cybersecurity Research" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/FOCUS-RED%20%26%20BLUE%20TEAM-c5ff4a?style=for-the-badge&logo=kalilinux&logoColor=c5ff4a&labelColor=060606" alt="Red Team and Blue Team" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/PROJECTS-HACKERLAB-c5ff4a?style=for-the-badge&logo=proxmox&logoColor=c5ff4a&labelColor=060606" alt="HackerLab" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/EDUCATION-HACKER%20AKADEMISI-c5ff4a?style=for-the-badge&logo=readthedocs&logoColor=c5ff4a&labelColor=060606" alt="Hacker Akademisi" /></a>
+  </p>
 
-	  <p>
-		<img src="https://img.shields.io/badge/RESEARCH-CYBERSECURITY-c5ff4a?style=for-the-badge&logo=hackthebox&logoColor=c5ff4a&labelColor=060606" alt="Cybersecurity Research" />
-		<img src="https://img.shields.io/badge/FOCUS-RED%20%26%20BLUE%20TEAM-c5ff4a?style=for-the-badge&logo=kalilinux&logoColor=c5ff4a&labelColor=060606" alt="Red Team and Blue Team" />
-		<img src="https://img.shields.io/badge/PROJECTS-HACKERLAB-c5ff4a?style=for-the-badge&logo=proxmox&logoColor=c5ff4a&labelColor=060606" alt="HackerLab" />
-		<img src="https://img.shields.io/badge/EDUCATION-HACKER%20AKADEMISI-c5ff4a?style=for-the-badge&logo=readthedocs&logoColor=c5ff4a&labelColor=060606" alt="Hacker Akademisi" />
-	  </p>
-
-	  <p>
-		<a href="#">Research Areas</a> •
-		<a href="#">Featured Projects</a> •
-		<a href="#">Technical Toolkit</a> •
-		<a href="#">HackerLab</a> •
-		<a href="#">Hacker Akademisi</a> •
-		<a href="#">GitHub</a> •
-		<a href="#">Contact</a>
-	  </p>
+  <p>
+    <a href="#">Research Areas</a> •
+    <a href="#">Featured Projects</a> •
+    <a href="#">Technical Toolkit</a> •
+    <a href="#">HackerLab</a> •
+    <a href="#">Hacker Akademisi</a> •
+    <a href="#">GitHub</a> •
+    <a href="#">Contact</a>
+  </p>
 </div>
+
 ---
 
 <div align="center">
