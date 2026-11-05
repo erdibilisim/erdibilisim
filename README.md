@@ -2,8 +2,9 @@
   <a href="#">
     <img src="public/icon-512.png" width="96" height="96" alt="Ahmet Erdi Logo" />
   </a>
-
-  <h1>Ahmet Erdi</h1>
+ <div align="center">
+	<img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/hero.webp" alt="Siber Güvenlik Araştırmaları" width="100%" />
+ </div>
 
   <p>
     <b>Cybersecurity Researcher · Red Team · Blue Team</b><br />
