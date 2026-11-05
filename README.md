@@ -69,12 +69,12 @@ Siber güvenlik çalışmalarımı aşağıdaki teknik alanlarda sürdürüyorum
   <tr>
     <td width="40%" valign="middle" style="padding:0; line-height:0;">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/erdibilisim/erdibilisim/main/assets/uart-proje-banner.png" alt="Gömülü Sistem Güvenliği" width="100%" style="width:100%; max-width:100%; height:auto; display:block; border:0;">
+        <img src="./assets/uart-proje-banner.png" alt="Gömülü Sistem Güvenliği" width="100%" style="width:100%; max-width:100%; height:auto; display:block; border:0;">
       </a>
     </td>
     <td width="60%" valign="middle" style="padding:12px;">
-      <h3>Gömülü Sistemlerin Güvenlik Analizi</h3>
-      <p><strong>TP-Link WR840N v6.20</strong><br>Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali</p>
+      <h3>Donanım Seviyesinde Yetkisiz Erişim: UART Protokolü İle Gömülü Sistemlerin İhlali</h3>
+      <p><strong>Gömülü Sistemlerin Güvenlik Analizi</strong><br>Hedef: TP-Link WR840N v6.20</p>
       <p>UART protokolü üzerinden gömülü sistemlerin donanım seviyesindeki güvenliğini inceleyen 12 bölümlük teknik araştırma serisi.</p>
 	  <p><strong>ÜZERİNDE ÇALIŞILIYOR!</strong></p>
       <p>
